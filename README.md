@@ -1,1 +1,1 @@
-# This is the Odin project, and it is aimed at what has been learned about the basic and important concepts of HTML, this will demonstrate all the knowledge acquired throughout the course, it is a project for the future of creating web programming.
+# This is the Odin project, and it is aimed at what has been learned about the basic and important concepts of HTML, this will demonstrate all the knowledge acquired throughout the course, it is a project for the future of creating web programming, thanks.
